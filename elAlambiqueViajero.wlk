@@ -14,6 +14,7 @@ object luke{
     }
     method recuerdo() = recuerdo
     method vehiculo(nuevo) {vehiculo = nuevo}
+    method prueba() = recuerdo
 }
 
 object alambiqueVeloz {
